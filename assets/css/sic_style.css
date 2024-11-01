@@ -1,0 +1,64 @@
+a {
+  text-decoration: none;
+  color:#fff;
+
+}  
+.sp_carousel .owl-carousel .owl-prev span {
+ font-size:60px !important;
+ float: left;
+ position: absolute;
+ top: 35%;
+ left: -3%;
+
+}
+.owl-nav button:hover{
+  color:#000000!important;
+}
+.sp_carousel .owl-carousel .owl-next span {
+ font-size:60px !important;
+ float: right;
+ position: absolute;
+ top: 35%;
+ right: -3%;
+
+}
+
+/* --------- trying------------ */
+.sp_carousel .owl-carousel .owl-item img {
+ 
+  width:100% !important;
+  height:300px !important;
+  max-width: 100% !important;
+}
+/* ==================  Title CSS ========================*/
+
+.sp_title {
+  position: absolute; 
+  top: 260px;
+  padding-left:10px;
+  color:white;
+  font-weight:bold;
+  margin: 0 auto;
+}
+/* ================== Images CSS ========================*/
+
+.sp_images {
+  max-width: 100%;
+  margin: 0 auto;
+}
+/*------------------------ end ----------------------------- */ 
+.sp_carousel .clr {background-color:aliceblue; border-radius: 10px;}
+.sp_carousel .div_style{ margin-bottom:90px; padding-top:100px; }
+.sp_carousel h1 {color:darkblue;font-size: xx-large;}
+.sp_carousel .p_style{font-size:small;}
+.sp_carousel h4{ color:darkblue; font-size:20px; }
+.sp_carousel .owl-class{padding-top:40px;}
+.sp_carousel .colo{color: darkblue; margin-top: 10px; font-size: 20px; min-height: 30px;}
+.sp_carousel .bor{border-bottom:1px dotted black;}
+.sp_carousel .padd{padding-top:10px;}
+.sp_carousel .font1 h6{font-size: 16px; font-weight: 700; margin-top: 15px;}
+.sp_carousel .font2 h6{font-size:14px; font-weight: 400; margin-top: 15px;}
+.sp_carousel span {font-size: 13px;}
+.sp_carousel img{border-radius: 10px;height:230px;width: 240px;}
+.sp_carousel p{margin-bottom: 0px;}
+.sp_carousel .no-js .owl-carousel, .owl-carousel.owl-loaded {margin: auto;}
